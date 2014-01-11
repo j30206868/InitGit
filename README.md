@@ -11,5 +11,5 @@ local
 (ssh get from your repository on the website)
 5.git remote add cwz81 <ssh>
 (cwz81 can be change as a name haven't used)
-6.git push cwz81 master
+6.git push --set-upstream cwz81 master
 (push local files onto the repository on the website)
